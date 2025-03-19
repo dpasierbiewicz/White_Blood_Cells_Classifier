@@ -54,5 +54,5 @@ Both datasets are licensed under the **Creative Commons Attribution 4.0 Internat
 ---
 
  ### Citations 
-[1] Acevedo, Andrea; Merino, Anna; Alférez, Santiago; Molina, Ángel; Boldú, Laura; Rodellar, José (2020), “A dataset for microscopic peripheral blood cell images for development of automatic recognition systems”, Mendeley Data, V1, doi: 10.17632/snkd93bnjr.1
+[1] Acevedo, Andrea; Merino, Anna; Alférez, Santiago; Molina, Ángel; Boldú, Laura; Rodellar, José (2020), “A dataset for microscopic peripheral blood cell images for development of automatic recognition systems”, Mendeley Data, V1, doi: 10.17632/snkd93bnjr.1\
 [2]  Kouzehkanan, Z.M., Saghari, S., Tavakoli, S. _et al._ A large dataset of white blood cells containing cell locations and types, along with segmented nuclei and cytoplasm. _Sci Rep_  **12**, 1123 (2022). https://doi.org/10.1038/s41598-021-04426-x
